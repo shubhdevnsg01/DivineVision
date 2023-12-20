@@ -10,3 +10,9 @@ Resnet 50
   
 Resnet 150
 - https://colab.research.google.com/drive/18xqkSMQZUW5Bn4B6TvqT7abx5mDq_3F-?authuser=1
+
+
+Accessable only to Mrs. Shika K Mehta
+
+Research Paper URL
+- https://www.overleaf.com/project/6582de36140034cbdc9f8deb
