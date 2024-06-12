@@ -26,6 +26,7 @@ This project uses the following technologies and frameworks:
 
 - Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - https: A package for creating api calls to establish a communication medium b/w backend and frontend.
+- Jupyter Notebook: It is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 - [Divine Vision Mobile Application]()
 - [Divine Vision Flask Server](https://github.com/Kaizoku01/Divine-Vision-Flask-Server)
 
