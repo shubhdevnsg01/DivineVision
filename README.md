@@ -24,7 +24,7 @@ The project includes a comparative analysis of five different models: ResNet50, 
 ## Dependencies
 This project uses the following technologies and frameworks:
 
-- Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Python: Python is a high-level, dynamically typed programming language known for its simplicity and readability.
 - https: A package for creating api calls to establish a communication medium b/w backend and frontend.
 - Jupyter Notebook: It is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 - [Divine Vision Mobile Application]()
