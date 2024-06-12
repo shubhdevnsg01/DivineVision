@@ -4,16 +4,22 @@ The project includes a comparative analysis of five different models: ResNet50, 
 
 ## Models Comparison
 
-- ResNet50: [Brief analysis findings]
-- ResNet152: [Brief analysis findings]
-- DenseNet201: [Brief analysis findings]
-- InceptionV3: [Brief analysis findings]
-- MobileNetV2: [Brief analysis findings]
+- ResNet50: Utilizes a deep architecture with 50 layers and residual connections to combat the vanishing gradient problem, allowing for the training of very deep networks with improved accuracy.
+
+- ResNet152: An even deeper version of the ResNet model with 152 layers, providing enhanced performance on complex tasks due to its increased depth and residual connections.
+
+- DenseNet201: Features 201 layers with dense connections between layers, ensuring maximum information flow and reducing the vanishing gradient problem, leading to improved efficiency and performance.
+
+- InceptionV3: Employs an inception architecture with 48 layers that includes factorized convolutions, aggressive regularization, and auxiliary classifiers, achieving high accuracy with computational efficiency.
+
+- MobileNetV2: Optimized for mobile and edge devices with 53 layers, it uses depthwise separable convolutions and an inverted residual structure, offering a good trade-off between latency and accuracy.
 
 ## Evaluation Metrics
-- ROUGE SCORE: [Explanation of ROUGE scores and their significance]
-- METEOR SCORE: [Explanation of METEOR scores and their significance]
-- BLEU SCORE: [Explanation of BLEU scores and their significance]
+- ROUGE SCORE: Measures summary quality by comparing overlap with reference summaries. Higher scores indicate better content coverage.
+
+- METEOR SCORE: Evaluates translation quality considering matches, synonyms, and order. Higher scores mean better semantic accuracy.
+
+- BLEU SCORE: Assesses translation quality by comparing n-gram matches with reference translations. Higher scores indicate better fluency and precision.
 
 ## Dependencies
 This project uses the following technologies and frameworks:
