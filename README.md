@@ -33,8 +33,8 @@ This project uses the following technologies and frameworks:
 ## Conclusion
 Based on the comparative analysis and evaluation metrics, DenseNet201 demonstrated superior performance in terms of accuracy for caption generation of Indian god and goddess images. Consequently, DenseNet201 was chosen for integration into the Flask backend of the mobile application.
 
-License
-[License information]
+## License
+Basic MIT licensed
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow the usual GitHub flow: fork the repository, make your changes, and submit a pull request.
