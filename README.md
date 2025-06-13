@@ -1,7 +1,6 @@
 # Divine Vision - Comparative Analysis for Image Caption Generation for Indian-Deities
 
-The project includes a comparative analysis of five different models: ResNet50, ResNet152, DenseNet201, InceptionV3, and MobileNetV2. The analysis evaluates the performance of these models using metrics such as ROUGE, METEOR, and BLEU scores. Based on the evaluation, DenseNet201 emerged as the most accurate model for caption generation among the five. The project utilizes DenseNet201 in the Flask backend for caption generation.
-
+The project includes a comparative analysis of five different models: ResNet50, ResNet152, DenseNet201, InceptionV3, and MobileNetV2. The analysis evaluates the performance of these models using metrics such as ROUGE, METEOR, and BLEU scores. Based on the evaluation, DenseNet201 emerged as the most accurate model for caption generation among the five. 
 ## Models Comparison
 
 - **ResNet50:** Utilizes a deep architecture with 50 layers and residual connections to combat the vanishing gradient problem, allowing for the training of very deep networks with improved accuracy.
